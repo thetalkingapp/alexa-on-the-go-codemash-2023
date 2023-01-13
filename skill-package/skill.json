@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "...scrubbed - See README.md..."
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "...scrubbed - See README.md..."
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "...scrubbed - See README.md..."
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "...scrubbed - See README.md..."
+            }
+          }
+        }
+      }
+    },
+ "permissions": [
+     {
+       "name": "alexa::devices:all:geolocation:read"
+     }
+ ],
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "kalahari-resort"
+        }
+      }
+    }
+  }
+}

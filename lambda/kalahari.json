@@ -1,0 +1,83 @@
+[
+    {
+        "name": "The Kilimanjaro Ballroom",
+        "coords": [
+            {"longitude": -82.6412392, "latitude": 41.3855326},
+            {"longitude": -82.6412137, "latitude": 41.3851029},
+            {"longitude": -82.640338, "latitude": 41.3851361},
+            {"longitude": -82.6403635, "latitude": 41.3855597}
+        ]
+    },
+    {
+        "name": "Aloewood",
+        "coords": [
+            {"longitude": -82.6410154, "latitude": 41.3857957},
+            {"longitude": -82.6410067, "latitude": 41.3856513},
+            {"longitude": -82.6408498, "latitude": 41.3856568},
+            {"longitude": -82.6408572, "latitude": 41.3857997}
+        ]
+    },
+    {
+        "name": "Leopardwood",
+        "coords": [
+            {"longitude": -82.6408572, "latitude": 41.3857997},
+            {"longitude": -82.6408498, "latitude": 41.3856568},
+            {"longitude": -82.6407244, "latitude": 41.3856609},
+            {"longitude": -82.6407325, "latitude": 41.3858043}
+        ]
+    },
+    {
+        "name": "Rosewood",
+        "coords": [
+            {"longitude": -82.6407325, "latitude": 41.3858043},
+            {"longitude": -82.6407244, "latitude": 41.3856609},
+            {"longitude": -82.6406158, "latitude": 41.3856649},
+            {"longitude": -82.6406259, "latitude": 41.3858078}
+        ]
+    },
+    {
+        "name": "Sagewood",
+        "coords": [
+            {"longitude": -82.6406259, "latitude": 41.3858078},
+            {"longitude": -82.6406158, "latitude": 41.3856649},
+            {"longitude": -82.6404931, "latitude": 41.3856684},
+            {"longitude": -82.6405025, "latitude": 41.3858128}
+        ]
+    },
+    {
+        "name": "Zebrawood",
+        "coords": [
+            {"longitude": -82.6405025, "latitude": 41.3858128},
+            {"longitude": -82.6404931, "latitude": 41.3856684},
+            {"longitude": -82.6403811, "latitude": 41.3856709},
+            {"longitude": -82.6403891, "latitude": 41.3858173}
+        ]
+    },
+    {
+        "name": "Zambezi",
+        "coords": [
+            {"longitude": -82.6415938, "latitude": 41.3854337},
+            {"longitude": -82.6413457, "latitude": 41.3854438},
+            {"longitude": -82.6413658, "latitude": 41.3857094},
+            {"longitude": -82.6416112, "latitude": 41.3857014}
+        ]
+    },
+    {
+        "name": "Nile",
+        "coords": [
+            {"longitude": -82.6415938, "latitude": 41.3854337},
+            {"longitude": -82.6415884, "latitude": 41.3852978},
+            {"longitude": -82.6413363, "latitude": 41.385308},
+            {"longitude": -82.6413457, "latitude": 41.3854438}
+        ]
+    },
+    {
+        "name": "Orange",
+        "coords": [
+            {"longitude": -82.6415884, "latitude": 41.3852978},
+            {"longitude": -82.6415777, "latitude": 41.385159},
+            {"longitude": -82.6413283, "latitude": 41.3851691},
+            {"longitude": -82.6413363, "latitude": 41.385308}
+        ]
+    }
+]
